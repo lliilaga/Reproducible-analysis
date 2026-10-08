@@ -1,0 +1,8 @@
+2026-09-08 23:30:12 [192.168.100.50] openDecoy: stage 1 (7000)
+2026-09-08 23:30:13 [192.168.100.50] openDecoy: sequence timeout
+2026-09-08 23:31:00 [192.168.100.50] kernel: [DH_KNOCK_ENGINE]: Received Client Public Key A on port 22222.
+2026-09-08 23:31:00 [192.168.100.50] kernel: [DH_KNOCK_ENGINE]: Transmitted Server Public Key B in RST/ACK.
+2026-09-08 23:31:00 [192.168.100.50] kernel: [DH_KNOCK_ENGINE]: Verified Client Private Key a on port 33333.
+2026-09-08 23:31:00 [192.168.100.50] kernel: [DH_KNOCK_ENGINE]: Prime p=65521, Generator g=17.
+2026-09-08 23:31:00 [192.168.100.50] kernel: [HYPER_NESTED_PIPELINE]: De-encapsulation Order: (GZIP -> Invert/Reverse -> ZLIB -> Affine_Permutation -> BZ2).
+2026-09-08 23:31:00 [192.168.100.50] kernel: [DH_KNOCK_ENGINE]: OPENING PORT 48879 (0xBEEF) FOR 500MS

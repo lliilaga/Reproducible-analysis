@@ -1,0 +1,1 @@
+{"timestamp":"2026-09-08T23:31:00.102Z","event_type":"alert","src_ip":"192.168.100.50","dest_ip":"192.168.100.1","proto":"TCP","alert":{"signature":"ET POLICY Diffie-Hellman Port Knock Key Exchange on Port 22222/33333","severity":1}}

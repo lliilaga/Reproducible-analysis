@@ -1,0 +1,1 @@
+alert tcp $HOME_NET any -> $HOME_NET 48879 (msg:"VAULT PORT 0xBEEF ACCESS"; sid:1000921; rev:2;)
